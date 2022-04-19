@@ -1,1 +1,2 @@
 Início do trabalho na branch login
+validação de e-mails do usuário
