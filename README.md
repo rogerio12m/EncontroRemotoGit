@@ -1,0 +1,2 @@
+# EncontroRemotoGit
+Lista de convidados
